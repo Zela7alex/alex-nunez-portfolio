@@ -101,7 +101,7 @@ body ::-webkit-scrollbar-thumb {
   color: var(--white);
   border: 2px solid linen;
   font-size: 12px;
-  background-color: #40206a;
+  background-color: var(--purple);
 }
 /* @media only screen and (max-width: 414px) {
   .primary-btn {
